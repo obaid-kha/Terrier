@@ -2,10 +2,14 @@
 
 body {
   min-height: calc(100vh - 3rem);
-  background: linear-gradient(
-    109.6deg,
-    rgb(0, 0, 0) 11.2%,
-    rgb(11, 132, 145) 91.1%
+  background: radial-gradient(
+    263px at 100.2% 3%,
+    rgb(32, 120, 187) 31.1%,
+    rgb(201, 170, 55) 36.4%,
+    rgb(222, 71, 57) 50.9%,
+    rgb(132, 173, 60) 60.7%,
+    rgb(231, 129, 62) 72.5%,
+    rgb(59, 112, 145) 72.6%
   );
   font-family: "Teachers", sans-serif;
 }

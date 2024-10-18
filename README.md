@@ -1,2 +1,0 @@
-# Terrier
-Fetch Dog Information
